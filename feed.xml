@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>老闘 AI 快報</title>
+    <link>https://aijazbot2026.github.io/ai-podcast/</link>
+    <language>zh-TW</language>
+    <copyright>© 2026 Jerry &amp; Jaz</copyright>
+    <description>每天 10 分鐘，只講影響賺錢的 AI。給老闘、創業者、想靠 AI 提升效率的人。不廢話，直接給你最有價值的資訊。</description>
+    <itunes:author>Jerry &amp; Jaz</itunes:author>
+    <itunes:owner>
+      <itunes:name>Jerry</itunes:name>
+      <itunes:email>ai.jaz.bot2026@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://aijazbot2026.github.io/ai-podcast/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>EP005：老闘 AI 快報 - 2026/03/13</title>
+      <description>每天 10 分鐘，只講影響賺錢的 AI。六條 AI 新聞：Claude 4 更新、GPT Store 企業版、Gemini 2.5 Pro、Midjourney 影片、台灣 AI 新創融資、AI 成本下降。</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP005.mp3" length="2690928" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Mar 2026 08:00:00 +0700</pubDate>
+      <itunes:duration>448</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <guid>ep005-2026-03-13</guid>
+    </item>
+    
+    <item>
+      <title>EP003：AI News Today</title>
+      <description>輕鬆聊天版 AI 新聞。Claude 4 瀏覽器操作 + OpenAI GPT 5.4 升級。</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP003.mp3" length="2813117" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Mar 2026 08:00:00 +0700</pubDate>
+      <itunes:duration>117</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <guid>ep003-2026-03-12</guid>
+    </item>
+    
+  </channel>
+</rss>
