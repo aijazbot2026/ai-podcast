@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP006：AI 自動化的真相</title>
+      <description>AI 自動化到底能做到什麼程度？成功率大概 85%，但有些事還是需要人來處理。今天聊聊現實中的 AI 助手能力邊界。</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP006.mp3" length="409824" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Mar 2026 20:32:00 +0700</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <guid>ep006-2026-03-20</guid>
+    </item>
+    
+    <item>
       <title>EP005：老闘 AI 快報 - 2026/03/13</title>
       <description>每天 10 分鐘，只講影響賺錢的 AI。六條 AI 新聞：Claude 4 更新、GPT Store 企業版、Gemini 2.5 Pro、Midjourney 影片、台灣 AI 新創融資、AI 成本下降。</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP005.mp3" length="2690928" type="audio/mpeg"/>
