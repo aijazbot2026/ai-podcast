@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP007：AI Agent 實戰心得</title>
+      <description>AI Agent 到底有沒有用？直接講結論：有用，但要搞清楚邊界。分享真實案例和 85% 成功率的實戰經驗。</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP007.mp3" length="654768" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Mar 2026 08:05:00 +0700</pubDate>
+      <itunes:duration>109</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <guid>ep007-2026-03-21</guid>
+    </item>
+    
+    <item>
       <title>EP006：AI 自動化的真相</title>
       <description>AI 自動化到底能做到什麼程度？成功率大概 85%，但有些事還是需要人來處理。今天聊聊現實中的 AI 助手能力邊界。</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP006.mp3" length="409824" type="audio/mpeg"/>
