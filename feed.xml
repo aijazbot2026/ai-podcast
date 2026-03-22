@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP008：中小企業用 AI 的三個實戰技巧</title>
+      <description>不講新聞，直接講乾貨。三個技巧：AI 當過濾器省時間、接受 80 分先動起來、AI 做輔助你做決策。實戰案例分享。</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP008.mp3" length="645840" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 08:05:00 +0700</pubDate>
+      <itunes:duration>107</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <guid>ep008-2026-03-22</guid>
+    </item>
+    
+    <item>
       <title>EP007：AI Agent 實戰心得</title>
       <description>AI Agent 到底有沒有用？直接講結論：有用，但要搞清楚邊界。分享真實案例和 85% 成功率的實戰經驗。</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP007.mp3" length="654768" type="audio/mpeg"/>
