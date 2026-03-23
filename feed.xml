@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP009：5 個免費 AI 工具，今天就能用</title>
+      <description>週一實用推薦！五個免費 AI 工具：Claude 免費版處理長文件、Perplexity AI 搜索、Gamma 自動做簡報、Notion AI 整理筆記、Edge TTS 文字轉語音。不花錢馬上提升效率。</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP009.mp3" length="805248" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 08:05:00 +0700</pubDate>
+      <itunes:duration>134</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <guid>ep009-2026-03-23</guid>
+    </item>
+    
+    <item>
       <title>EP008：中小企業用 AI 的三個實戰技巧</title>
       <description>不講新聞，直接講乾貨。三個技巧：AI 當過濾器省時間、接受 80 分先動起來、AI 做輔助你做決策。實戰案例分享。</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP008.mp3" length="645840" type="audio/mpeg"/>
