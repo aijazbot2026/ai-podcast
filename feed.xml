@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP010：AI 自動化的坑與解法</title>
+      <description>AI 自動化聽起來美好，但踩過坑的人都知道魔鬼在細節。三個常見的坑：以為設好就不管、一次自動化太多、沒有人工備案。實戰建議：先手動跑一週再設計自動化。</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP010.mp3" length="542592" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Mar 2026 08:06:00 +0700</pubDate>
+      <itunes:duration>90</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <guid>ep010-2026-03-24</guid>
+    </item>
+    
+    <item>
       <title>EP009：5 個免費 AI 工具，今天就能用</title>
       <description>週一實用推薦！五個免費 AI 工具：Claude 免費版處理長文件、Perplexity AI 搜索、Gamma 自動做簡報、Notion AI 整理筆記、Edge TTS 文字轉語音。不花錢馬上提升效率。</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP009.mp3" length="805248" type="audio/mpeg"/>
