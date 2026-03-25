@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP011：AI 國家戰略來了！白宮、勞工部、ARM 都動起來</title>
+      <description>今日重磅新聞：白宮發布 AI 國家政策框架、美國勞工部推出 Make America AI-Ready 計畫、ARM 首顆自家 CPU 要賣給 Meta、醫療系統 AI 採用率大幅上升。AI 不再只是科技圈的事，政府都認真了！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP011.mp3" length="661680" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Mar 2026 08:05:00 +0700</pubDate>
+      <itunes:duration>110</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <guid>ep011-2026-03-25</guid>
+    </item>
+    
+    <item>
       <title>EP010：AI 自動化的坑與解法</title>
       <description>AI 自動化聽起來美好，但踩過坑的人都知道魔鬼在細節。三個常見的坑：以為設好就不管、一次自動化太多、沒有人工備案。實戰建議：先手動跑一週再設計自動化。</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP010.mp3" length="542592" type="audio/mpeg"/>
