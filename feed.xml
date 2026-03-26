@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP012：ARC-AGI-3 — AI 真的在「思考」嗎？</title>
+      <description>聊聊 ARC-AGI-3 測試：為什麼這個測試能看出 AI 是真的聰明還是只會模仿？現在最強的 AI 也只能拿到三四成分數，這告訴我們什麼？</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP012.mp3" length="621936" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Mar 2026 08:07:00 +0700</pubDate>
+      <itunes:duration>103</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <guid>ep012-2026-03-26</guid>
+    </item>
+    
+    <item>
       <title>EP011：AI 國家戰略來了！白宮、勞工部、ARM 都動起來</title>
       <description>今日重磅新聞：白宮發布 AI 國家政策框架、美國勞工部推出 Make America AI-Ready 計畫、ARM 首顆自家 CPU 要賣給 Meta、醫療系統 AI 採用率大幅上升。AI 不再只是科技圈的事，政府都認真了！</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP011.mp3" length="661680" type="audio/mpeg"/>
