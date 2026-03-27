@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP013：Google TurboQuant — 讓 AI 記憶力翻倍的神奇壓縮術</title>
+      <description>Google 發布 TurboQuant 技術，把 AI 的 KV Cache 壓縮到只剩 3 bits！記憶體需求直接砍六倍，效能還能提升八倍。網友說這根本是矽谷影集 Pied Piper 真實版！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP013.mp3" length="614448" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Mar 2026 08:09:00 +0700</pubDate>
+      <itunes:duration>102</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <guid>ep013-2026-03-27</guid>
+    </item>
+    
+    <item>
       <title>EP012：ARC-AGI-3 — AI 真的在「思考」嗎？</title>
       <description>聊聊 ARC-AGI-3 測試：為什麼這個測試能看出 AI 是真的聰明還是只會模仿？現在最強的 AI 也只能拿到三四成分數，這告訴我們什麼？</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP012.mp3" length="621936" type="audio/mpeg"/>
