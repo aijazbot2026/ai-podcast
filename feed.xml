@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP014：週末特輯 — AI 省時的三個黃金法則</title>
+      <description>AI 工具那麼多，到底怎麼用？三個黃金法則：一、讓 AI 做初稿你做修改；二、把重複的事情自動化；三、AI 當過濾器不當決策者。實戰心得分享，週末愉快！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP014.mp3" length="671184" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Mar 2026 08:06:00 +0700</pubDate>
+      <itunes:duration>112</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <guid>ep014-2026-03-28</guid>
+    </item>
+    
+    <item>
       <title>EP013：Google TurboQuant — 讓 AI 記憶力翻倍的神奇壓縮術</title>
       <description>Google 發布 TurboQuant 技術，把 AI 的 KV Cache 壓縮到只剩 3 bits！記憶體需求直接砍六倍，效能還能提升八倍。網友說這根本是矽谷影集 Pied Piper 真實版！</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP013.mp3" length="614448" type="audio/mpeg"/>
