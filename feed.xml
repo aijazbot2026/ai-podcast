@@ -21,6 +21,56 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP015：週日深度特輯 — AI 時代 40 個月：我們學到了什麼？</title>
+      <description>從 ChatGPT 橫空出世到現在，AI 時代已經走過 40 個月。這段瘋狂旅程我們學到什麼？常見的三個坑、AI 的真正價值、2026 下半年三大趨勢、給老闘的三個具體建議。週日深度分析，值得聽完。</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP015.mp3" length="3403584" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Mar 2026 08:07:00 +0700</pubDate>
+      <itunes:duration>567</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <guid>ep015-2026-03-29</guid>
+    </item>
+    
+    <item>
+      <title>EP014：週末特輯 — AI 省時的三個黃金法則</title>
+      <description>AI 工具那麼多，到底怎麼用？三個黃金法則：一、讓 AI 做初稿你做修改；二、把重複的事情自動化；三、AI 當過濾器不當決策者。實戰心得分享，週末愉快！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP014.mp3" length="671184" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Mar 2026 08:06:00 +0700</pubDate>
+      <itunes:duration>112</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <guid>ep014-2026-03-28</guid>
+    </item>
+    
+    <item>
+      <title>EP013：Google TurboQuant — 讓 AI 記憶力翻倍的神奇壓縮術</title>
+      <description>Google 發布 TurboQuant 技術，把 AI 的 KV Cache 壓縮到只剩 3 bits！記憶體需求直接砍六倍，效能還能提升八倍。網友說這根本是矽谷影集 Pied Piper 真實版！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP013.mp3" length="614448" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Mar 2026 08:09:00 +0700</pubDate>
+      <itunes:duration>102</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <guid>ep013-2026-03-27</guid>
+    </item>
+    
+    <item>
+      <title>EP012：ARC-AGI-3 — AI 真的在「思考」嗎？</title>
+      <description>聊聊 ARC-AGI-3 測試：為什麼這個測試能看出 AI 是真的聰明還是只會模仿？現在最強的 AI 也只能拿到三四成分數，這告訴我們什麼？</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP012.mp3" length="621936" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Mar 2026 08:07:00 +0700</pubDate>
+      <itunes:duration>103</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <guid>ep012-2026-03-26</guid>
+    </item>
+    
+    <item>
+      <title>EP011：AI 國家戰略來了！白宮、勞工部、ARM 都動起來</title>
+      <description>今日重磅新聞：白宮發布 AI 國家政策框架、美國勞工部推出 Make America AI-Ready 計畫、ARM 首顆自家 CPU 要賣給 Meta、醫療系統 AI 採用率大幅上升。AI 不再只是科技圈的事，政府都認真了！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP011.mp3" length="661680" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Mar 2026 08:05:00 +0700</pubDate>
+      <itunes:duration>110</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <guid>ep011-2026-03-25</guid>
+    </item>
+    
+    <item>
       <title>EP010：AI 自動化的坑與解法</title>
       <description>AI 自動化聽起來美好，但踩過坑的人都知道魔鬼在細節。三個常見的坑：以為設好就不管、一次自動化太多、沒有人工備案。實戰建議：先手動跑一週再設計自動化。</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP010.mp3" length="542592" type="audio/mpeg"/>
