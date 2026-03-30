@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP016：週一開工特輯 — AI 圈一週大事：Sora 陣亡、AGI 宣言、Claude 被打壓</title>
+      <description>週一開工，幫你補齊上週 AI 圈八大新聞：OpenAI 關閉 Sora、黃仁勳宣稱達成 AGI、Anthropic 被五角大廈打壓、白宮 AI 沙皇卸任、Wikipedia 禁 AI 內容、AI chatbot 越來越會忽略指令、Claude Mythos 即將發布、Accenture 把升遷跟 AI 使用掛鉤。老闘必聽！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP016.mp3" length="3477024" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Mar 2026 08:06:00 +0700</pubDate>
+      <itunes:duration>580</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <guid>ep016-2026-03-30</guid>
+    </item>
+    
+    <item>
       <title>EP015：週日深度特輯 — AI 時代 40 個月：我們學到了什麼？</title>
       <description>從 ChatGPT 橫空出世到現在，AI 時代已經走過 40 個月。這段瘋狂旅程我們學到什麼？常見的三個坑、AI 的真正價值、2026 下半年三大趨勢、給老闘的三個具體建議。週日深度分析，值得聽完。</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP015.mp3" length="3403584" type="audio/mpeg"/>
