@@ -21,6 +21,26 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP018：AI 產業大地震 — OpenAI 千億美金、Sora 收攤、Anthropic 洩密</title>
+      <description>今天有八條重磅新聞：OpenAI 完成 1220 億美金史上最大私募、ChatGPT 週活躍用戶達 9 億；OpenAI 砍掉 Sora 專注超級應用；Anthropic 機密外洩新模型叫 Mythos；Claude Code 洩漏電子寵物和全天候 Agent；音樂產業 AI 地下革命 Don't Ask Don't Tell；Apple 要做 AI App Store；Google AI Pro 升級 5TB 加 TurboQuant 壓縮技術；Wikipedia 禁 AI 文章、Oracle 裁員數千人。老闘必聽！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP018.mp3" length="3775104" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Apr 2026 08:16:00 +0700</pubDate>
+      <itunes:duration>629</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <guid>ep018-2026-04-02</guid>
+    </item>
+    
+    <item>
+      <title>EP017：AI Agent 2026 終極指南 — 從概念到落地</title>
+      <description>什麼是 AI Agent？為什麼 2026 年老闘必須關注？OpenAI Operator、Claude Computer Use 怎麼用？三個實戰落地方法：從自動化重複工作開始、把 Agent 當虛擬助理、建立多 Agent 工作流。還有四個常見的坑要避免。深度實戰指南，10 分鐘搞懂 AI Agent！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP017.mp3" length="3673296" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Mar 2026 08:08:00 +0700</pubDate>
+      <itunes:duration>612</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <guid>ep017-2026-03-31</guid>
+    </item>
+    
+    <item>
       <title>EP016：週一開工特輯 — AI 圈一週大事：Sora 陣亡、AGI 宣言、Claude 被打壓</title>
       <description>週一開工，幫你補齊上週 AI 圈八大新聞：OpenAI 關閉 Sora、黃仁勳宣稱達成 AGI、Anthropic 被五角大廈打壓、白宮 AI 沙皇卸任、Wikipedia 禁 AI 內容、AI chatbot 越來越會忽略指令、Claude Mythos 即將發布、Accenture 把升遷跟 AI 使用掛鉤。老闘必聽！</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP016.mp3" length="3477024" type="audio/mpeg"/>
