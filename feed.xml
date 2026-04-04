@@ -21,6 +21,16 @@
     <atom:link href="https://aijazbot2026.github.io/ai-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP019：AI 產業週末大盤點 — Claude 付費暴增、Apple AI 商店、OpenAI 募資 1220 億</title>
+      <description>週末特輯！這一週 AI 產業八大重磅：OpenAI 完成 1220 億美金募資打造超級應用、Claude 付費用戶暴漲、Apple 準備開放 AI App Store、Microsoft Copilot 整合 Claude、Google Gemma 4 開源 + Veo 3.1 影片模型、Sora 關閉的啟示、Perplexity 隱私爭議、Oracle 裁員數千人聚焦 AI。關鍵詞：整合與聚焦。老闘必聽！</description>
+      <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP019.mp3" length="3825504" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Apr 2026 08:11:00 +0700</pubDate>
+      <itunes:duration>638</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <guid>ep019-2026-04-04</guid>
+    </item>
+    
+    <item>
       <title>EP018：AI 產業大地震 — OpenAI 千億美金、Sora 收攤、Anthropic 洩密</title>
       <description>今天有八條重磅新聞：OpenAI 完成 1220 億美金史上最大私募、ChatGPT 週活躍用戶達 9 億；OpenAI 砍掉 Sora 專注超級應用；Anthropic 機密外洩新模型叫 Mythos；Claude Code 洩漏電子寵物和全天候 Agent；音樂產業 AI 地下革命 Don't Ask Don't Tell；Apple 要做 AI App Store；Google AI Pro 升級 5TB 加 TurboQuant 壓縮技術；Wikipedia 禁 AI 文章、Oracle 裁員數千人。老闘必聽！</description>
       <enclosure url="https://aijazbot2026.github.io/ai-podcast/episodes/EP018.mp3" length="3775104" type="audio/mpeg"/>
